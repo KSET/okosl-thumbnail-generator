@@ -1,0 +1,6 @@
+/out/*
+!/out/.gitkeep
+
+/node_modules
+/.idea
+/.vscode

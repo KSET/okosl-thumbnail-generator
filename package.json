@@ -1,0 +1,14 @@
+{
+  "name": "thumbs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node index.js",
+    "gen": "yarn generate"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "puppeteer": "^5.5.0"
+  }
+}
