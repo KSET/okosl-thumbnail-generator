@@ -1,5 +1,6 @@
 /out/*
 !/out/.gitkeep
+!/out/example.png
 
 /node_modules
 /.idea

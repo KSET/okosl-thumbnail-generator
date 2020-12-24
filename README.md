@@ -23,3 +23,9 @@ $ yarn gen "2" "Rad s datotekama i direktorijima"
 ```
 
 Output je png u `out` direktorij
+
+
+Primjer generiranog thumbnaila (za primjer 2):
+
+
+![Primjer generiranog thumbnaila](https://github.com/KSET/okosl-thumbnail-generator/blob/main/out/example.png?raw=true)
